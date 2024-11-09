@@ -2,8 +2,7 @@
 
 MidNight EXE Builder is a Python-based GUI tool that allows users to create custom executable files with selected data payloads, including Discord webhook integration, save data retrieval, MAC address collection, and IP address gathering. It is built using the `tkinter` library for a clean and simple interface.
 
-![MidNight EXE Builder](![image](https://github.com/user-attachments/assets/f76880b3-b153-4dc2-9621-03d5e5627157)
-) <!-- Add a screenshot of the GUI here if available -->
+![image](https://github.com/user-attachments/assets/f3f59ffa-77eb-48f1-86e0-00ddca9b4001)
 
 ## Features
 
